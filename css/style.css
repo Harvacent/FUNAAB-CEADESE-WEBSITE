@@ -561,13 +561,13 @@ input[type=radio] {
 =============================*/
 .navbar {
     width: 100%;
-    padding-top: 28px;
+    /* padding-top: 28px; */
     -weebkit-transition: all linear .3s;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
     transition: all linear .3s;
     background: white !important;
-    padding-bottom: 26px;
+    /* padding-bottom: 26px; */
     position: relative;
 }
 
